@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a graduate of the School of Informatics at the Aristotle University of Thessaloniki and I am currently working as a <br>software engineer in a company that deals with miitary and space projects. 
+I am a graduate of the School of Informatics at the Aristotle University of Thessaloniki and I am currently working as a <br>software engineer in a company that deals with military and space projects. 
 
 
 ## 🌐 Socials:
